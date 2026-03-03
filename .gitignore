@@ -1,0 +1,9 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+.env
+venv/
+cards.json
+playground.py
+config.json
+exports/
+__pycache__/
+.vscode/
